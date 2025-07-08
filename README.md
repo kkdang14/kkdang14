@@ -27,6 +27,7 @@ Passionate about building intelligent systems and making sense of data.
 
 - I enjoy listening to music and discovering new artists.
 - I love playing badminton in my spare time.
+- I often play guitar, this is one of my passion in life
 
 ---
 
