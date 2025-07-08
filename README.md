@@ -15,7 +15,7 @@ Passionate about building intelligent systems and making sense of data.
 
 ## 🚀 Featured Projects
 
-- [KAN4ICH](https://github.com/kkdang14/KAN4ICH)  
+- [KAN4ICH](https://github.com/kkdang14/KAN4ICH) (In progress)
   *This is a Machine Learning project focused on researching the Kolmogorov Arnold Network (KAN) architecture as an alternative to traditional MLP (Multi-Layer Perceptron) networks. The research is conducted on an image dataset featuring intangible cultural heritages of Vietnam. The project involves training, evaluating, and adapting the KAN architecture to better fit the unique characteristics of the dataset. Through this work, we aim to explore the potential of KANs in image classification tasks and contribute insights into how new neural architectures can support the preservation and understanding of cultural heritage.*
 
 - [VietInstrument](https://github.com/kkdang14/VietInstrument)  
