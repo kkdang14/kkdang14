@@ -7,7 +7,7 @@ Passionate about building intelligent systems and making sense of data.
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python  
+- **Languages:** Python, Javascript, C/C++  
 - **Frameworks/Libraries:** TensorFlow, PyTorch, scikit-learn, Pandas, Seaborn  
 - **Interests:** Machine Learning, Deep Learning, Data Visualization
 
